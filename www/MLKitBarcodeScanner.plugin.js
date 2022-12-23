@@ -29,7 +29,7 @@ var getBarcodeFormatFlags = function (barcodeFormats) {
   return barcodeFormatFlag;
 };
 
-var MLKitBarcodeScanner = {
+var MLKitBarcodeScannerPlugin = {
 
   scan: function (options, successCallback, errorCallback) {
 
@@ -43,4 +43,4 @@ var MLKitBarcodeScanner = {
   }
 };
 
-module.exports = MLKitBarcodeScanner;
+module.exports = MLKitBarcodeScannerPlugin;
