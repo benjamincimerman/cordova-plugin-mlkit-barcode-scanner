@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <!-- string name="app_name">Jolioo </string -->
+  <string name="app_name">Jolioo System App</string>
   <string name="launcher_name">Scannen</string>
   <string name="activity_name">Scannen</string>
   <string name="ok">OK</string>
